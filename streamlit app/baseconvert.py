@@ -2,10 +2,10 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="Divyansh Ajinkya Data Representation", page_icon="C:/Users/amd/Desktop/Finalboss1/dav2.png", layout="centered")
+st.set_page_config(page_title="Divyansh Ajinkya Data Representation", page_icon="dav2.png", layout="centered")
 
 st.title("Data Base Converter™")
-st.image("C:/Users/amd/Desktop/streamlit/4.png")
+st.image("4.png")
 st.markdown("Convert numbers between **Decimal**, **Binary**, **Octal**, and **Hexadecimal** bases.")
 
 # --- Input Fields ---
